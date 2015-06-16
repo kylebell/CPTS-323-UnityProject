@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f618727ff219e254a9021d74e6dfcbb2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - projectile1: {fileID: 400006, guid: d9954efd18c5ed94d9e1a42f5693d5ac, type: 2}
+  - projectile2: {fileID: 400008, guid: 90d006fd99a28e640a78b7a82bb8a4c2, type: 2}
+  - projectile3: {fileID: 400008, guid: e6550fdf35a660c41b86a75bf14c2123, type: 2}
+  - ShotPoint: {instanceID: 0}
+  - boxempty: {instanceID: 0}
+  - boxselected: {fileID: 2800000, guid: 6793afeb1ba524134ae93ee3038763e0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

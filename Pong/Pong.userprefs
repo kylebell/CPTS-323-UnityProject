@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\InvadersTest\Main Menu\InGameMenu.js">
+    <Files>
+      <File FileName="Assets\InvadersTest\Main Menu\CustomButton2.js" Line="22" Column="12" />
+      <File FileName="Assets\InvadersTest\Main Menu\CustomButton.js" Line="1" Column="1" />
+      <File FileName="Assets\InvadersTest\Enemies\AlienAIScript.js" Line="14" Column="23" />
+      <File FileName="Assets\InvadersTest\Player\PlayerController.js" Line="1" Column="1" />
+      <File FileName="Assets\InvadersTest\GameManagement.js" Line="1" Column="1" />
+      <File FileName="Assets\InvadersTest\Main Menu\InGameMenu.js" Line="17" Column="37" />
+      <File FileName="Assets\InvadersTest\Main Menu\Menu.js" Line="136" Column="17" />
+      <File FileName="Assets\ItemScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Upgrades.js" Line="1" Column="1" />
+      <File FileName="Assets\InvadersTest\PlayerProjectiles\BulletScript.js" Line="1" Column="1" />
+      <File FileName="Assets\InvadersTest\Astroids\AstroidScript.js" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
